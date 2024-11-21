@@ -11,7 +11,7 @@
 
 ## ✍ What I'm up to
 
-- 🔭 I’m currently working with **Django, VueJS, Quasar**
+- 🔭 I’m currently working with **Django, VueJS, Quasar, Apexchart**
 
 ## 🛠 Things I work with
 
@@ -21,8 +21,8 @@
 </p>
 
 <p align="left">
-<img src="assets/reactjs.svg" alt="reactjs" width="40" height="40"/>
-<img src="assets/redux.svg" alt="redux" width="40" height="40"/>
+<!-- <img src="assets/reactjs.svg" alt="reactjs" width="40" height="40"/>
+<img src="assets/redux.svg" alt="redux" width="40" height="40"/> -->
 <img src="assets/vuejs.svg" alt="vuejs" width="40" height="40"/>
 <img src="assets/webpack.svg" alt="webpack" width="40" height="40"/>
 <img src="assets/babeljs.svg" alt="babeljs" width="40" height="40"/>
@@ -56,6 +56,6 @@
 
 
 
-## 📊 My GitHub Stats
+<!-- ## 📊 My GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RajeshPuri&show_icons=true&hide_title=true" alt="Rajesh ;Puri" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RajeshPuri&show_icons=true&hide_title=true" alt="Rajesh ;Puri" /></p> -->
