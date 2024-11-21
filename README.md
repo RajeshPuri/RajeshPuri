@@ -1,49 +1,17 @@
-## Hi there 👋
-
-<!--
-**RajeshPuri/RajeshPuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <h1 align="center">Hi 👋, I'm Rajesh Puri</h1>
 <h3 align="center">Software Developer from Nepal</h3>
-
-<p align="center">
-<!-- <a href="https://www.linkedin.com/in/sajal-shrestha-553b10102/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sajal.shres@gmail.com" height="30" width="30" /></a> -->
-</p>
 
 ## 📜 About Me
 
 - 💻 I love writing code and learn anythings about it.
 
-- 📚 I teach programming and software development
+- 💬 Ask me about **Python, Django, JavaScript, Vue,**
 
-- 💽 I use **Ubuntu** as my primary development environment and thinking about switching to **ArchLinux**
-
-- 💬 Ask me about **Python, Django, React, Vue, BackBone, Testing, DevOps**
-
-- 📧 How to reach me **sajal.shres@gmail.com**
+- 📧 How to reach me **razeshpuri@gmail.com**
 
 ## ✍ What I'm up to
 
-- 🔭 I’m currently working with **Django, FastAPI, VueJS and BackBoneJS**
-
-- 🌱 I’m currently learning [Data Science and Analytics](https://www.gvsu.edu/acad/data-science-and-analytics-ms.htm).
-
-- 👨‍💻 All of my projects are available at [https://github.com/sajalshres](https://github.com/sajalshres)
-
-- 📝 I regulary write articles on [https://dev.to/sajalshres](https://dev.to/sajalshres)
+- 🔭 I’m currently working with **Django, VueJS, Quasar**
 
 ## 🛠 Things I work with
 
@@ -71,7 +39,6 @@ Here are some ideas to get you started:
 <img src="assets/mysql.svg" alt="mysql" width="40" height="40"/>
 <img src="assets/sqlite.svg" alt="sqlite" width="40" height="40"/>
 </p>
-
 
 
 <p align="left">
